@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @jeanpaulodeos
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Jean-Paul Odeso 
+- 👀 I’m interested par la programmation 
+- 🌱 I’m currently learning  les CODES 
+- 💞️ I’m looking to collaborate on  un projet à l'avenir 
+- 
+- 📫 How to reach me ... vous pouvez me joindre sur mon email qui est:soedomawulomjeanpaul@gmail.com 
+-
 
 <!---
 jeanpaulodeos/jeanpaulodeos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
